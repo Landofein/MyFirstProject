@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eLqpcECp)
-# CS 411 Lab 1: **Landen Finlinso**
+# CS 411 Lab 1: **Landen Finlinson**
 
 ## Goal
 
@@ -19,7 +19,7 @@ Canvas for full the specification, guide to the lab, and grading rubric.
 - [ ] Change the link below to include the name of your repository and it will
   reflect the status of your build:
 
-![autograding badge](https://github.com/bsu-cs-jb/<YOUR-REPO-NAME-HERE>/actions/workflows/classroom.yml/badge.svg)
+![autograding badge]([https://github.com/bsu-cs-jb/<YOUR-REPO-NAME-HERE>/actions/workflows/classroom.yml/badge.svg](https://github.com/bsu-cs-jb/lab-01-Landofein))
 
 ## Questions
 
@@ -30,18 +30,18 @@ Canvas for full the specification, guide to the lab, and grading rubric.
 
 ### Q1: My favorite kind of dragon is:
 
-- [ ] Replace this line with your answer
+- The fake kind
 
 ### Q2: Do you prefer group or individual projects?
 
-- [ ] Replace this line with your answer
+- i like both but i prefer individual work
 
 ### Q3: Coffee, tea, soda/pop/Coke, other or no caffeine?
 
-- [ ] Replace this line with your answer
+- I dont drink coke but I used to 
 
 ### Q4: Do you prefer projects or quizzes?
 
-- [ ] Replace this line with your answer
+- Projects
 
 
